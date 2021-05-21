@@ -99,3 +99,4 @@ This setup *can* be optimized by for example setting up the same concept in the 
 Again, this isn't meant to be a go-to page on DDoS protection or even helping protect OpenVPN. This is simply meant to be a case guide and give information that may come in handy to you. As I said in the beginning, I am not an expert in DDoS protection or the effective use of iptables - these are simply measures I began implementing many months ago in order to make the DDoS protection of my services just that little bit more robust.
 
 Finally, I did not write this intending for you to copy and paste what I'm doing. Various different OpenVPN settings may completely change some sections of the packet. You should do your own analysis using this as a guide. The rule I've built here was used and tested on my own server with my own configuration and may not work for yours.
+
